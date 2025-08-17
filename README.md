@@ -9,5 +9,4 @@ The site is live at: [https://devopsof.github.io/Elevate_project_6/](https://dev
 ```text
 .
 ├── index.html        # Main static web page
-├── style.css         # (Optional) Styling for the web page
 └── README.md         # Project documentation
